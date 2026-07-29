@@ -24,17 +24,9 @@ This project uses the **Mall Customers** dataset to group customers into differe
 
 ---
 
-## Project Objectives
+## Project Approach
 
-* Load and explore the dataset.
-* Check and handle missing values.
-* Encode categorical data.
-* Scale the features before clustering.
-* Use the Elbow Method to determine the optimal number of clusters.
-* Build a K-Means clustering model.
-* Assign customers to different clusters.
-* Apply Principal Component Analysis (PCA) for visualization.
-* Analyze the customer segments and provide business recommendations.
+To complete this project, I first loaded and explored the dataset to understand its structure and identify any missing values. I then encoded the categorical data and scaled the numerical features so that all variables contributed equally to the clustering process. Next, I used the Elbow Method to determine the optimal number of clusters and built a K-Means clustering model. After assigning each customer to a cluster, I applied Principal Component Analysis (PCA) to reduce the data to two dimensions for visualization. Finally, I analyzed the characteristics of each customer segment and provided business insights and recommendations based on the clustering results.
 
 ---
 
