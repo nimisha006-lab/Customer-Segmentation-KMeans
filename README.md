@@ -60,6 +60,21 @@ To complete this project, I first loaded and explored the dataset to understand 
 
 ---
 
+## My Findings
+
+# Cluster Segmentation
+
+| Cluster | Customer Segment                      | Description                                              |
+| ------- | ------------------------------------- | -------------------------------------------------------- |
+| 0       | High Income – High Spending           | High-value customers with high income and high spending. |
+| 1       | High Income – Low Spending            | High-income customers with low spending potential.       |
+| 2       | Middle Income – Low Spending          | Average-income customers with lower spending habits.     |
+| 3       | Young Moderate Income – High Spending | Young customers who spend more despite moderate income.  |
+| 4       | Older Moderate Income – Low Spending  | Older customers with moderate income and lower spending. |
+         |
+
+---
+
 ## Results
 
 The customers were grouped into **five customer segments**:
